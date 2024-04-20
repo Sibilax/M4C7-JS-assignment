@@ -94,7 +94,7 @@ let myArray = [1, 2, 3, 4];
 Object
 
 ```js
-let myObject = { clave: valor} 
+let myObject = { clave: "valor"} 
 
 ```
 
